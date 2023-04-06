@@ -1,0 +1,16 @@
+.GoogleImage{
+    margin: 50px ;
+    text-align: center;
+}
+.search{
+    width: 600px;
+    height: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 25px;
+    background-color: rgb(237, 241, 243);
+    overflow: hidden;
+}
+.addSearch{
+    text-align: center;
+}
